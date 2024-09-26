@@ -12,6 +12,5 @@ We are focusing on these areas:
 
 * Tuition and school expense sponsorships
 * Leadership training
-* “Experience” trips
 * Internships
 * Medical and dental assistance
