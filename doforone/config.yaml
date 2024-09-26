@@ -25,15 +25,15 @@ params:
     buttons:
       - name: About Us
         url: "/about"
-      # - name: Blog
-      #   url: "/posts"
+      - name: Contact Us
+        url: "/contact"
 
   # label:
   #   icon: "/img/favicons/apple-touch-icon.png"
 
-  # socialIcons:
-  #   - name: email
-  #     url: mailto:email@example.com
+  socialIcons:
+    - name: email
+      url: mailto:do4one@beachsidecc.org
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -50,10 +50,10 @@ menu:
       name: About Us
       url: /about/
       weight: 10
-#     - identifier: contact
-#       name: Contact Us
-#       url: /contact/
-#       weight: 20
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 20
     # - identifier: blog
     #   name: Blog
     #   url: /posts/
