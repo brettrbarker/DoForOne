@@ -6,4 +6,4 @@ hidemeta: true
 showBreadCrumbs: false
 
 ---
-If you want to get in contact with us, you can email us at <do4one@beachsidecc.org>.
+If you want to get in contact with us, you can email us at <info@do4one.org>.
