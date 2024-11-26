@@ -7,7 +7,7 @@ theme: "PaperMod"
 params:
   title: Do For One, Inc
   author: Do For One, Inc
-  description: "Do For One, Inc is a non-profit organization dedicated to combatting poverty by providing basic aid, educational, and leadership opportunities to children in impoverished nations in the name of Jesus Christ."
+  description: "Do For One, Inc. is a non-profit organization dedicated to combating poverty by providing basic aid, education, and leadership opportunities to children in impoverished nations in the name of Jesus Christ."
   keywords: [Non-Profit, Charity]
   defaultTheme: auto
   disableThemeToggle: false
