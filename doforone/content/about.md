@@ -6,7 +6,7 @@ hidemeta: true
 showBreadCrumbs: false
 
 ---
-Do For One, Inc is a non-profit organization dedicated to combatting poverty by providing basic aid, educational, and leadership opportunities to children in impoverished nations in the name of Jesus Christ.
+Do For One, Inc. is a non-profit organization dedicated to combating poverty by providing basic aid, education, and leadership opportunities to children in impoverished nations in the name of Jesus Christ.
 
 We are focusing on these areas:
 
