@@ -6,37 +6,49 @@
 .label-container {
         margin-bottom: 1rem;
     }
-.label-text {
-        display: inline-block;
+.mc-field-group {
+        display: block;
         margin-bottom: 3px;
         padding: .35rem;
-        background-color: #6079ff;
-        color: #fff;
         text-transform: uppercase;
         letter-spacing: 1px;
         font-size: 14px;
         font-family: 'Montserrat', cursive;
     }
+.mc-field-group-horizontal {
+        display: flex;
+    }
+.mc-field-group-horizontal .mc-field-group {
+    flex: 1; /* Make the input fields take up equal space */
+    margin-right: 1rem; /* Add space between the fields */
+}
+
+.mc-field-group-horizontal .mc-field-group:last-child {
+    margin-right: 0; /* Remove the margin from the last field */
+}
 input {
         display: block;
         min-height: 50px;
         width: 100%;
         padding: 6px;
         border: 1px solid #4f4f4f;
-        border-radius: 0px;
+        border-radius: var(--radius);
+        background-color: #ffffff;
         box-shadow: rgba(10, 10, 10, .05) 0 1px 4px 0 inset;
     }
-.submit-btn {
-        padding: 14px 16px;
-        margin-bottom: 1rem;
+.submit-button {
         min-height: 50px;
-        border-radius: 4px;
-        background-color: #f57afc;
         text-transform: uppercase;
         letter-spacing: 1px;
         font-size: 16px;
         font-family: 'Montserrat';
-        color: #fff;
+        background: var(--tertiary);
+        border: 0px;
+        border-radius: var(--radius);
+        margin-top: 8px;
+        padding: 6px;
+        transition: transform 0.1s;
+        color: var(--primary);
     }
 
     .main .profile {
