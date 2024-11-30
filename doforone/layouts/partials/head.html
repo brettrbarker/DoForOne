@@ -73,7 +73,8 @@
 {{- else }}
 <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end }}
-    
+
+<!--Adding this for Custom CSS  -->
 {{- /* Custom CSS */}}
 {{- range site.Params.customCSS }}
 <link rel="stylesheet" href="{{ . | absURL }}?v={{ now.Unix }}">
