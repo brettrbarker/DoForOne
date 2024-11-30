@@ -31,8 +31,10 @@ params:
       - name: Give
         url: "/give"
 
-  # label:
-  #   icon: "/img/favicons/apple-touch-icon.png"
+  label:
+    icon: "/img/do4one-dark.svg"
+    # icon: "/img/do4one-textonly-black.svg"
+    iconHeight: 50
 
   socialIcons:
     - name: email

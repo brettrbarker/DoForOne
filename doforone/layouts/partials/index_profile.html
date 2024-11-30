@@ -31,11 +31,11 @@
                     }
                 </script>
         {{- else }}
-        <img id="siteLogo" draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+        <img id="siteLogoProfile" draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
             <script>
                 if (document.body.className.includes("dark")) {
-                document.getElementById("siteLogo").src = "/img/do4one-light.svg";
+                document.getElementById("siteLogoProfile").src = "/img/do4one-light.svg";
                 }
             </script>
         {{- end }}
