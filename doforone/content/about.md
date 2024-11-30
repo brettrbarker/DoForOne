@@ -24,6 +24,6 @@ Currently, it costs about **$150 per year (USD)** for the elementary kids to go 
 
 ## How You Can Help  
 
-We currently do not have a way for you to sponsor a specific child to go to school. However, if you would like to use the above cost estimates to help one of these kids go to school this next year, you can give whatever amount works for you. You can give a **one-time gift** or a **recurring monthly donation.**  
+We currently do not have a way for you to sponsor a specific child to go to school. However, if you would like to use the above cost estimates to help one of these kids go to school this next year, you can give whatever amount works for you. You can give a **one-time gift** or a **recurring monthly donation**. Please visit our [donation page](/give) to contribute.  
 
 **Do For One** is a **501(c)(3) non-profit organization**, and all donations are tax-exempt. **100%** of your donations go directly to meet the needs of the kids at Casa Hogar Elim.  
