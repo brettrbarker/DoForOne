@@ -1,27 +1,28 @@
 baseURL: http://do4one.org
 languageCode: en-us
-title: Do For One
+title: Do 4 One
 theme: "PaperMod"
 # Sample config: https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
 
 params:
-  title: Do For One, Inc
+  title: Do 4 One
   author: Do For One, Inc
   description: "Do For One, Inc. is a non-profit organization dedicated to combating poverty by providing basic aid, education, and leadership opportunities to children in impoverished nations in the name of Jesus Christ."
   keywords: [Non-Profit, Charity]
   defaultTheme: auto
   disableThemeToggle: false
   env: production
+  logo: "/img/do4one-logo.webp"
 
   profileMode:
     enabled: true
-    title: "Do For One"
+    title: "Do 4 One"
     subtitle: "...what you wish you could do for everyone."
-    #imageUrl: "/img/image.webp"
-    #imageTitle: """
-    # imageWidth: 672
-    # imageHeight: 142
-    # images: ["/img/image.webp"]
+    imageUrl: "/img/do4one-logo.webp"
+    imageTitle: "Do 4 One"
+    imageWidth: 450
+    imageHeight: 230
+    images: ["/img/do4one-logo.webp"]
     buttons:
       - name: About Us
         url: "/about"
