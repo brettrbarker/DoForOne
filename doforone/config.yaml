@@ -12,17 +12,17 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   env: production
-  logo: "/img/do4one-logo.webp"
+  logo: "/img/do4one-dark.svg"
 
   profileMode:
     enabled: true
     title: "Do 4 One"
     subtitle: "...what you wish you could do for everyone."
-    imageUrl: "/img/do4one-logo.webp"
+    imageUrl: "/img/do4one-dark.svg"
     imageTitle: "Do 4 One"
     imageWidth: 450
     imageHeight: 230
-    images: ["/img/do4one-logo.webp"]
+    images: ["/img/do4one-dark.svg"]
     buttons:
       - name: About Us
         url: "/about"
