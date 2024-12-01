@@ -72,10 +72,10 @@ menu:
       name: Give
       url: /give/
       weight: 20
-    # - identifier: blog
-    #   name: Blog
-    #   url: /posts/
-    #   weight: 30
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 30
 markup:
   goldmark:
     renderer:
