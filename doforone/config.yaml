@@ -29,7 +29,7 @@ params:
       - name: Contact Us
         url: "/contact"
       - name: Give
-        url: "/give"
+        url: "https://givebutter.com/casahogarelim"
 
   label:
     icon: "/img/do4one-dark.svg"
@@ -70,7 +70,7 @@ menu:
       weight: 20
     - identifier: give
       name: Give
-      url: /give/
+      url: https://givebutter.com/casahogarelim
       weight: 20
     - identifier: blog
       name: Blog
